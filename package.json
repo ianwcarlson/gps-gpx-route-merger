@@ -1,0 +1,16 @@
+{
+  "name": "gps-gpx-route-merger",
+  "version": "1.0.0",
+  "description": "Takes multiple gpx files and merges them into one gpx, with the routes broken by continuous sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "practical-gpx-to-js": "^0.1.0",
+    "xmldom": "^0.3.0"
+  }
+}
